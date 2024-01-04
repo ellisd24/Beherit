@@ -1,16 +1,16 @@
 # Meta stuff
-/package.json @jarena3 @aritsune
+/package.json @ellisd24
 
-/.travis.yml  @aritsune @CommanderTso
+/.travis.yml  @ellisd24
 
-/webpack.config.js  @aritsune
-/webpack_config/* @aritsune
+/webpack.config.js  @ellisd24
+/webpack_config/* @ellisd24
 
-/netlify.toml @aritsune
+/netlify.toml
 
-/build_scripts/release.sh @aritsune
+/build_scripts/release.sh @ellisd24
 
 # Code
 ## Homebrew
-/src/io/ContentPackParser.ts @aritsune
-/src/classes/ContentPack.ts  @aritsune
+/src/io/ContentPackParser.ts @ellisd24
+/src/classes/ContentPack.ts  @ellisd24
